@@ -56,7 +56,7 @@ What happens inside:
 
 - Evaluation – Accuracy & F1-score tracked during training.
 
-- Saving – Model adapters saved as a .h5 file.
+- Saving – Model adapters saved as a .h5 or model file(s).
 
 
 # Deployment with Streamlit
